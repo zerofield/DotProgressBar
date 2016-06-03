@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="dot_progress">
+        <attr name="min_value" format="integer"/>
+        <attr name="step" format="integer"/>
+        <attr name="value" format="integer"/>
+        <attr name="segment_count" format="integer"/>
+        <attr name="background_color" format="color"/>
+        <attr name="foreground_color" format="color"/>
+        <attr name="text_size" format="dimension"/>
+        <attr name="text_color" format="color"/>
+        <attr name="text_margin_top" format="dimension"/>
+        <attr name="circle_radius" format="dimension"/>
+    </declare-styleable>
+</resources>
